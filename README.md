@@ -8,7 +8,7 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
 ### 🛠️ Tecnologías y Herramientas
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,docker,azure,vim,php,mysql,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=linux,windows,docker,azure,vim,php,mysql,html,css,javascript,bash" />
   </a>
 </p>
 
