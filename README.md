@@ -13,7 +13,6 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=AlejandroCavero&show_icons=true&theme=radical)
 
 ### 📫 Formas de contacto
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandro-jiménez-65b450252/)
 
 ¡Gracias por visitar mi perfil! 😊
