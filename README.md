@@ -5,13 +5,18 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
 
 - 💻 Actualmente estoy terminando el Grado Superior de ASIR (Administración de Sistemas Informáticos en Red)
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,windows,docker,azure,vim,php,mysql,html,css,javascript,bash" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,php,mysql,html,css,javascript,bash" />
   </a>
 </p>
-
+### 🛠️ Herramientas
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,windows,vscode,notion,vim" />
+  </a>
+</p>
 ### 📊 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=AlejandroCavero&show_icons=true&theme=radical)
 
