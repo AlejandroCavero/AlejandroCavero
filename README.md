@@ -10,7 +10,7 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
 [![Lenguaje 2](https://img.shields.io/badge/-Lenguaje2-orange?style=flat&logo=lenguaje2&logoColor=white)](https://lenguaje2.com)
 
 ### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=AlejandroCavero&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=AlejandroCavero&show_icons=true&theme=radical)
 
 ### 📫 Conéctate conmigo
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AlejandroCavero)
