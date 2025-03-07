@@ -12,7 +12,7 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
 ### 📊 Estadísticas de GitHub
 ![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=AlejandroCavero&show_icons=true&theme=radical)
 
-### 📫 Conéctate conmigo
+### 📫 Formas de contacto
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AlejandroCavero)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlejandroCavero)
 
