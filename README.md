@@ -6,7 +6,7 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
 - 💻 Actualmente estoy terminando el Grado Superior de ASIR (Administración de Sistemas Informáticos en Red)
 
 ### 🛠️ Tecnologías y Herramientas
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,windows,docker,azure,vim,php,mysql" />
   </a>
