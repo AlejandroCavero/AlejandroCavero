@@ -14,6 +14,6 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
 
 ### 📫 Formas de contacto
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/alejandro-jim%C3%A9nez-65b450252/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
 
 ¡Gracias por visitar mi perfil! 😊
