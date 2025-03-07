@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Alejandro Jiménez Cavero
 
-<body align="center">
+<body>
 ### 🚀 Sobre mí
 Soy una persona interesada en el mundo de la informática, en concreto la ciberseguridad.
 
