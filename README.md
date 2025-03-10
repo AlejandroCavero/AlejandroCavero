@@ -19,9 +19,6 @@ Soy una persona interesada en el mundo de la informática, en concreto la cibers
   </a>
 </p>
 
-### 📊 Estadísticas de GitHub
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=AlejandroCavero&show_icons=true&theme=radical)
-
 ### 📫 Formas de contacto
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jimenezcaveroalejandro@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/alejandrocavero)
