@@ -3,7 +3,8 @@
 ### 🚀 Sobre mí
 Soy una persona interesada en el mundo de la informática, en concreto la ciberseguridad.
 
-- 💻 Actualmente estoy terminando el Grado Superior de ASIR (Administración de Sistemas Informáticos en Red)
+- 💻  Grado Superior de ASIR (Administración de Sistemas Informáticos en Red)
+- Actualmente trabajo como técnico de sistemas e infraestructura con Docker (Julio 2025 - Actualidad)
 
 ### 🛠️ Tecnologías 
 <p>
