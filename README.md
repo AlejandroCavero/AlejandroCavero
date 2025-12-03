@@ -1,10 +1,11 @@
-## 👋 ¡Hola! Soy Alejandro Jiménez Cavero
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c59e406e-32bf-45c6-b1ae-a383e0ab48c7" />## 👋 ¡Hola! Soy Alejandro Jiménez Cavero
 
 ### 🚀 Sobre mí
 Soy una persona interesada en el mundo de la informática, en concreto la ciberseguridad.
 
 - 💻  Grado Superior de ASIR (Administración de Sistemas Informáticos en Red)
-- Actualmente trabajo como técnico de sistemas e infraestructura con Docker (Julio 2025 - Actualidad)
+- 🛡️  CIDEAD - Curso de especialización en Ciberseguridad en Entornos de las Tecnologías de la Información
+- Actualmente trabajo como técnico de sistemas e infraestructura (Julio 2025 - Actualidad)
 
 ### 🛠️ Tecnologías 
 <p>
