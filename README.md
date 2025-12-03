@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c59e406e-32bf-45c6-b1ae-a383e0ab48c7" />## 👋 ¡Hola! Soy Alejandro Jiménez Cavero
+## 👋 ¡Hola! Soy Alejandro Jiménez Cavero
 
 ### 🚀 Sobre mí
 Soy una persona interesada en el mundo de la informática, en concreto la ciberseguridad.
