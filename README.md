@@ -4,7 +4,7 @@
 Soy una persona interesada en el mundo de la informática, en concreto la ciberseguridad.
 
 - 💻  Grado Superior de ASIR (Administración de Sistemas Informáticos en Red)
-- 🛡️  CIDEAD - Curso de especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (Noviembre 2025 - Actualidad)
+- 🛡️  CIDEAD - Curso de especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (Noviembre 2025 - Mayo 2025)
 - Actualmente trabajo como técnico de sistemas e infraestructura (Julio 2025 - Actualidad)
 
 ### 🛠️ Tecnologías 
